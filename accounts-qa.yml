@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Accounts - Đây là môi trường QA"
+  contactDetail:
+    name: "Đặng Thái Tây - QA"
+    email: "dangthaitay96@gmail.com"
+  call:
+    - 0387118896
+    - 0375758298

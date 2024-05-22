@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Accounts local apis"
+  contactDetail:
+    name: "Đặng Thái Tây, Đặng Thái Tây "
+    email: "dangthaitay96@gmail.com"
+  call:
+    - 0387118896
+    - 0375758298

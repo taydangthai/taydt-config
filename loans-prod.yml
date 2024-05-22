@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Loans - Đây là môi trường PROD"
+  contactDetail:
+    name: "Đặng Thái Tây - Loans PROD"
+    email: "dangthaitay96@gmail.com"
+  call:
+    - 0387118896
+    - 0375758298
