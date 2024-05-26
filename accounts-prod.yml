@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts - Đây là môi trường PROD --- test cho vui ---test rabbit mq --- test webhook monitor ---200 chua"
+  message: "Accounts - Đây là môi trường PROD --- test cho vui ---test rabbit mq --- test webhook monitor ---200 chua troi"
   contactDetail:
     name: "Đặng Thái Tây - PROD"
     email: "{cipher}c64d757230349b1b16bc40eb671f763d315b50670db09304cd4594bbb35e05bcb1fff38c95723f355eaa1577c178da1b"
