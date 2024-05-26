@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Loans - Đây là môi trường PROD ---------------- test cho buồn ------------- test rabbit mq"
+  message: "Loans - Đây là môi trường PROD ---------------- test cho buồn ------------- test rabbit mq --------- test monitor"
   contactDetail:
     name: "Đặng Thái Tây - Loans PROD"
     email: "dangthaitay96@gmail.com"
